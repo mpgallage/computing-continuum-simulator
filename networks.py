@@ -3,6 +3,8 @@ import pymongo
 client_url = "mongodb://localhost:27017/"
 db_name = "simulations"
 collection_name = "networks"
+# collection_name = "networks_cloud_only"
+# collection_name = "networks_edge_only"
 
 
 # Define classes to represent the hierarchy
