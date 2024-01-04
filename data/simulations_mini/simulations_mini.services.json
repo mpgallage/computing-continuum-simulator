@@ -1,0 +1,4448 @@
+[{
+  "_id": "config-1",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1016.8502421569739,
+      "average_instructions_per_second": 9810708.119408073,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2724.4605021918637,
+      "average_instructions_per_second": 8152162.735403667,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4238.389737810725,
+      "average_instructions_per_second": 3684136.5241811736,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4011.2842132356345,
+      "average_instructions_per_second": 1309260.705906398,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2434.8507029353214,
+      "average_instructions_per_second": 1882401.61196727,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4057.557903799058,
+      "average_instructions_per_second": 1186742.021114632,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1720.355457317528,
+      "average_instructions_per_second": 5419901.500334212,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1113.655040247747,
+      "average_instructions_per_second": 5323853.105680336,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-2",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3536.2775419662366,
+      "average_instructions_per_second": 9911635.183360396,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1455.6245047098364,
+      "average_instructions_per_second": 2037931.7101823818,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2750.2405390509484,
+      "average_instructions_per_second": 1184946.0508952125,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2705.6548042728696,
+      "average_instructions_per_second": 2898522.2520433622,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3109.331181397015,
+      "average_instructions_per_second": 5057778.500075556,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1222.9436851297075,
+      "average_instructions_per_second": 1018100.7567528831,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4889.738955948461,
+      "average_instructions_per_second": 2738682.6083122347,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-3",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4703.558715280195,
+      "average_instructions_per_second": 6699086.181271011,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2939.360926768571,
+      "average_instructions_per_second": 3821448.6065947684,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4416.761398031642,
+      "average_instructions_per_second": 1620918.320108708,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3571.0214701346304,
+      "average_instructions_per_second": 5010558.475927955,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4309.552013299603,
+      "average_instructions_per_second": 8281973.993456743,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-4",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3613.728983291205,
+      "average_instructions_per_second": 7070587.319532397,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1060.8777165030858,
+      "average_instructions_per_second": 8405228.681418248,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2523.59000247701,
+      "average_instructions_per_second": 6164503.1042569885,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2914.955793801094,
+      "average_instructions_per_second": 6178262.42540685,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4861.201934721412,
+      "average_instructions_per_second": 6681687.176394153,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1107.1343721885478,
+      "average_instructions_per_second": 2283701.3877665633,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4925.409463035853,
+      "average_instructions_per_second": 2608459.1961335177,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-5",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4725.978040011969,
+      "average_instructions_per_second": 5925212.960958376,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1764.0756456556228,
+      "average_instructions_per_second": 6083903.398326784,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1290.6216196655942,
+      "average_instructions_per_second": 8671723.168687243,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3585.9281086926376,
+      "average_instructions_per_second": 9955602.019258276,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2170.9411577918318,
+      "average_instructions_per_second": 6165711.4502977645,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4433.840291124445,
+      "average_instructions_per_second": 2919339.6687010145,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4760.519065724142,
+      "average_instructions_per_second": 9704253.677018633,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1121.7841659913734,
+      "average_instructions_per_second": 8359876.54863223,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-6",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3937.022403853973,
+      "average_instructions_per_second": 8574889.603908893,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4572.138898305937,
+      "average_instructions_per_second": 2776459.4897882156,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3611.1825197422568,
+      "average_instructions_per_second": 1413495.6471548239,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1202.8324110623275,
+      "average_instructions_per_second": 3005022.0700836545,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4988.562065495764,
+      "average_instructions_per_second": 6593828.856147841,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4697.085542709208,
+      "average_instructions_per_second": 6106485.037321766,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-7",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2398.049896575295,
+      "average_instructions_per_second": 8705831.747192847,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4798.204390208157,
+      "average_instructions_per_second": 9407490.158387661,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1602.105104002405,
+      "average_instructions_per_second": 7607965.139620006,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2982.721210983927,
+      "average_instructions_per_second": 4464950.407604264,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2596.1782499073247,
+      "average_instructions_per_second": 3843854.043520562,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4903.7210208923825,
+      "average_instructions_per_second": 9287890.426149484,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1475.9642149484202,
+      "average_instructions_per_second": 7268227.294225181,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-8",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3672.196917148589,
+      "average_instructions_per_second": 8612165.04899222,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2731.5023548458744,
+      "average_instructions_per_second": 8929398.552571144,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1574.8513666799772,
+      "average_instructions_per_second": 3756258.2955659525,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2866.0366994299447,
+      "average_instructions_per_second": 7316628.110177308,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1112.2539146504105,
+      "average_instructions_per_second": 7679317.762339093,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4223.947203113999,
+      "average_instructions_per_second": 5787325.203744241,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1119.565336558656,
+      "average_instructions_per_second": 8111311.3295101505,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-9",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1826.3919834083895,
+      "average_instructions_per_second": 8328708.290595978,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3136.859492669834,
+      "average_instructions_per_second": 7043441.260595119,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3939.214625182194,
+      "average_instructions_per_second": 8093003.659573637,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1069.724822342828,
+      "average_instructions_per_second": 8970342.036899215,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4396.962465391893,
+      "average_instructions_per_second": 8789853.872471187,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1545.5140846544655,
+      "average_instructions_per_second": 1278682.8947480863,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-10",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1207.7460096843647,
+      "average_instructions_per_second": 9129926.363446375,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2490.556804935807,
+      "average_instructions_per_second": 6389678.284328488,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3400.768550771742,
+      "average_instructions_per_second": 5534143.862333559,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4448.173594279065,
+      "average_instructions_per_second": 4363133.339362085,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4336.812971854835,
+      "average_instructions_per_second": 3542496.834043747,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-11",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3682.9068125930576,
+      "average_instructions_per_second": 5156416.859902762,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3516.2681780493213,
+      "average_instructions_per_second": 3798612.141910622,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1967.3134154118402,
+      "average_instructions_per_second": 7403422.6883038925,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1137.3154238380305,
+      "average_instructions_per_second": 9453767.06429167,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4774.671696358901,
+      "average_instructions_per_second": 8994056.415814083,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1307.780059166305,
+      "average_instructions_per_second": 7347321.460922561,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2611.7119554032774,
+      "average_instructions_per_second": 3496955.7592220106,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1683.1765179780468,
+      "average_instructions_per_second": 5853371.859586428,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-12",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1484.1403033119395,
+      "average_instructions_per_second": 9751937.331675233,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2269.713209740457,
+      "average_instructions_per_second": 4716049.475808801,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3747.534928459159,
+      "average_instructions_per_second": 3155356.20391069,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3137.3731955270296,
+      "average_instructions_per_second": 7814697.971206257,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3555.7423407400015,
+      "average_instructions_per_second": 9173011.89810571,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-13",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2025.2783525998138,
+      "average_instructions_per_second": 4350243.033286115,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1080.6689201278527,
+      "average_instructions_per_second": 5420515.374358299,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2624.5448537754964,
+      "average_instructions_per_second": 3278954.52804482,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1442.4253674225747,
+      "average_instructions_per_second": 9859154.211217625,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3488.70592042748,
+      "average_instructions_per_second": 1085053.492136211,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-14",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4331.306226310861,
+      "average_instructions_per_second": 8878271.953987017,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4935.459126771797,
+      "average_instructions_per_second": 4717921.536348062,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4258.703878890396,
+      "average_instructions_per_second": 7237524.171016575,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3611.5249141732384,
+      "average_instructions_per_second": 5523646.384627384,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1829.465811007759,
+      "average_instructions_per_second": 8029663.079568747,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2861.8488986135144,
+      "average_instructions_per_second": 1336118.3519035485,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-15",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3020.696754863248,
+      "average_instructions_per_second": 6651141.62593787,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2616.091858576396,
+      "average_instructions_per_second": 4241159.014242944,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1426.771026638554,
+      "average_instructions_per_second": 4441884.64303898,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4845.602175565413,
+      "average_instructions_per_second": 1734894.792498773,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1988.2312484164477,
+      "average_instructions_per_second": 9450762.222127873,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-16",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1617.9060727701421,
+      "average_instructions_per_second": 1975690.920766621,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1737.1061129808174,
+      "average_instructions_per_second": 3416641.138004882,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2914.2769748196797,
+      "average_instructions_per_second": 6747566.931664951,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3871.7284679919976,
+      "average_instructions_per_second": 6482763.498442909,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4962.394849426451,
+      "average_instructions_per_second": 3809496.075007662,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3383.019054689842,
+      "average_instructions_per_second": 9078978.86413224,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-17",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1866.0287024690915,
+      "average_instructions_per_second": 1301447.0532638063,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4708.292814132597,
+      "average_instructions_per_second": 1034321.8697799689,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4594.793973846454,
+      "average_instructions_per_second": 8752076.313018031,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4409.067273726314,
+      "average_instructions_per_second": 5435197.518449481,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4308.526140760227,
+      "average_instructions_per_second": 3196027.6478664023,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2372.3513970714994,
+      "average_instructions_per_second": 6345033.843861655,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2429.5769399450237,
+      "average_instructions_per_second": 7472307.709639029,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 4456.119917320481,
+      "average_instructions_per_second": 9408770.123983586,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-18",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2339.070066380551,
+      "average_instructions_per_second": 5219655.117843873,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4622.621807948504,
+      "average_instructions_per_second": 5687229.132597803,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2539.73531559824,
+      "average_instructions_per_second": 1339002.9807347995,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4795.912042072321,
+      "average_instructions_per_second": 1850215.5333123496,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1252.8338185292268,
+      "average_instructions_per_second": 3054876.288163223,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-19",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4803.203930353593,
+      "average_instructions_per_second": 7406497.148213093,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2053.324659376025,
+      "average_instructions_per_second": 9404790.598824253,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3362.1121579055584,
+      "average_instructions_per_second": 2108933.5992475254,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2404.0516759205,
+      "average_instructions_per_second": 1538711.132928579,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4799.189505974463,
+      "average_instructions_per_second": 1585049.2913297443,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-20",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3072.448130184805,
+      "average_instructions_per_second": 6551866.051846712,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3686.82660747571,
+      "average_instructions_per_second": 6037809.8439878365,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2839.1121654364456,
+      "average_instructions_per_second": 3213183.3718394605,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3200.6944833434914,
+      "average_instructions_per_second": 1346835.6443946655,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2818.8327158147026,
+      "average_instructions_per_second": 8467103.424407162,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-21",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3628.339316794439,
+      "average_instructions_per_second": 5973842.478467217,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4616.821348235962,
+      "average_instructions_per_second": 2720112.800542199,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1468.5282905123915,
+      "average_instructions_per_second": 6542001.217995089,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2055.855714282845,
+      "average_instructions_per_second": 8918926.666588724,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3436.158029925948,
+      "average_instructions_per_second": 5329319.588115497,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1714.9710334738595,
+      "average_instructions_per_second": 5335471.275084103,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3745.2878388642703,
+      "average_instructions_per_second": 4757398.123061905,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-22",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1187.1075742911366,
+      "average_instructions_per_second": 1249271.989720044,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4144.234351743391,
+      "average_instructions_per_second": 2000224.1494333749,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4457.385041819093,
+      "average_instructions_per_second": 9907373.492317256,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4031.7014553376334,
+      "average_instructions_per_second": 2105049.5339311,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2994.531045066596,
+      "average_instructions_per_second": 7245911.455940006,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1572.2679296362053,
+      "average_instructions_per_second": 3954580.237368807,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2026.4825984409044,
+      "average_instructions_per_second": 1680233.3474338371,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 3045.270638665792,
+      "average_instructions_per_second": 1780077.0356313451,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-23",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3956.309876132091,
+      "average_instructions_per_second": 1885346.683875217,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3138.2363559910514,
+      "average_instructions_per_second": 8820950.029216196,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1718.2425483516965,
+      "average_instructions_per_second": 3179647.593759603,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1072.4283490852918,
+      "average_instructions_per_second": 1531400.9644982214,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4775.731656626278,
+      "average_instructions_per_second": 2732375.020856408,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4641.239371607999,
+      "average_instructions_per_second": 3710312.2898764573,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3160.5204207773436,
+      "average_instructions_per_second": 9611377.421860376,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 2986.476778242024,
+      "average_instructions_per_second": 4192773.9484892855,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-24",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2054.4825193624574,
+      "average_instructions_per_second": 3083673.553493295,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1431.9774165363365,
+      "average_instructions_per_second": 7037157.828807556,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4637.050817952733,
+      "average_instructions_per_second": 9563471.193328638,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1458.7937551881685,
+      "average_instructions_per_second": 2791335.945672354,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4351.606491455275,
+      "average_instructions_per_second": 5939749.945319033,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2449.6605652423423,
+      "average_instructions_per_second": 3532151.3082496645,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4021.557930409398,
+      "average_instructions_per_second": 1532999.4629480578,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 2350.319449903475,
+      "average_instructions_per_second": 2241063.9184748754,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-25",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3434.7357573725826,
+      "average_instructions_per_second": 7081661.727368872,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1565.801840862727,
+      "average_instructions_per_second": 7682627.251820274,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4359.2883155755535,
+      "average_instructions_per_second": 8343940.768715123,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4403.250295288686,
+      "average_instructions_per_second": 2499821.1502717584,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3133.6161552395833,
+      "average_instructions_per_second": 5433666.734262788,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-26",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2171.8910124781396,
+      "average_instructions_per_second": 8087715.125967572,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2954.6235132830743,
+      "average_instructions_per_second": 7087755.151774472,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4126.991849136633,
+      "average_instructions_per_second": 3646327.405132147,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4236.172710847994,
+      "average_instructions_per_second": 3020190.753882474,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2324.332837518075,
+      "average_instructions_per_second": 7400205.370929825,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3653.7595628919,
+      "average_instructions_per_second": 8310251.14751794,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1423.837074487444,
+      "average_instructions_per_second": 5628141.583955062,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-27",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1420.6636571695776,
+      "average_instructions_per_second": 6856663.808569513,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4514.341350313969,
+      "average_instructions_per_second": 1589308.574412055,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3920.404777621318,
+      "average_instructions_per_second": 7634555.886401049,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3817.5621865490007,
+      "average_instructions_per_second": 6563266.262880016,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3379.8501029093486,
+      "average_instructions_per_second": 4798318.702613304,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3297.079095354987,
+      "average_instructions_per_second": 6990736.979384461,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1571.6127243565556,
+      "average_instructions_per_second": 4677927.588377086,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-28",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3284.364627001703,
+      "average_instructions_per_second": 2245681.6591983987,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4736.15691588007,
+      "average_instructions_per_second": 5022374.208451823,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4684.540692228949,
+      "average_instructions_per_second": 7970747.666743592,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2767.523728109013,
+      "average_instructions_per_second": 1338181.4628530638,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2300.7990764884344,
+      "average_instructions_per_second": 1648896.8401727835,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1592.7638081528676,
+      "average_instructions_per_second": 3197759.853735909,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4914.701985594657,
+      "average_instructions_per_second": 7931764.77367521,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-29",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4551.4978734770575,
+      "average_instructions_per_second": 6051061.396514024,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1766.0217743872026,
+      "average_instructions_per_second": 5353895.735067742,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1669.4435714319886,
+      "average_instructions_per_second": 1200512.4972466133,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2428.9838278238362,
+      "average_instructions_per_second": 7689315.060071932,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1373.5165291661974,
+      "average_instructions_per_second": 7003595.808105568,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3075.137112137752,
+      "average_instructions_per_second": 1382569.2588185791,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4976.502876956969,
+      "average_instructions_per_second": 1348632.1931607157,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-30",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1708.5903473811009,
+      "average_instructions_per_second": 8856809.147497736,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1973.3551664832025,
+      "average_instructions_per_second": 9050441.813245174,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2358.0540712402517,
+      "average_instructions_per_second": 9595968.947754906,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1463.533086128459,
+      "average_instructions_per_second": 6926023.185479401,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3801.612289516066,
+      "average_instructions_per_second": 7470005.828526019,
+      "layer": "edge"
+    }
+  ]
+},
+{
+  "_id": "config-31",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2484.3128471194377,
+      "average_instructions_per_second": 5088336.04843846,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2251.814050404495,
+      "average_instructions_per_second": 9425397.452705799,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1232.2648484035544,
+      "average_instructions_per_second": 9244707.12977457,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3643.629198058357,
+      "average_instructions_per_second": 8753204.723420795,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3670.2764515681984,
+      "average_instructions_per_second": 6857348.771063241,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-32",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1808.5306865620967,
+      "average_instructions_per_second": 8265797.124727484,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1304.2255098401113,
+      "average_instructions_per_second": 2751380.2997431858,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2859.388226718398,
+      "average_instructions_per_second": 9317411.21440273,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4022.6997361102244,
+      "average_instructions_per_second": 9673150.296222715,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2961.9936233935623,
+      "average_instructions_per_second": 6699066.590675857,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-33",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2835.1786242870685,
+      "average_instructions_per_second": 8936938.127632404,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2580.8261625021605,
+      "average_instructions_per_second": 5877515.6106920745,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2028.1505470974,
+      "average_instructions_per_second": 7647254.873490169,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4638.510996691982,
+      "average_instructions_per_second": 2231434.035638281,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4085.2241197644494,
+      "average_instructions_per_second": 7322781.22595904,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3119.6803431303338,
+      "average_instructions_per_second": 7660741.62079279,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2290.9431741773715,
+      "average_instructions_per_second": 6330318.63805063,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-34",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4067.72952422877,
+      "average_instructions_per_second": 4735367.660195058,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3951.939735723631,
+      "average_instructions_per_second": 5398080.349421017,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2050.546233707014,
+      "average_instructions_per_second": 9184032.53861769,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2148.39754482688,
+      "average_instructions_per_second": 5777833.076341537,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3985.400678623083,
+      "average_instructions_per_second": 8340168.120029184,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4978.451689639927,
+      "average_instructions_per_second": 5049717.386165215,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-35",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3044.633168061132,
+      "average_instructions_per_second": 9298498.572942784,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4680.521154277814,
+      "average_instructions_per_second": 9503139.553580657,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3819.4640713078848,
+      "average_instructions_per_second": 4305964.234632585,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3667.0570041309975,
+      "average_instructions_per_second": 7284977.8341292385,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3197.5945934824053,
+      "average_instructions_per_second": 8953184.596123628,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4046.3166775425943,
+      "average_instructions_per_second": 8287527.794738249,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1983.2972521318854,
+      "average_instructions_per_second": 6707180.813917239,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-36",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3517.3540849495494,
+      "average_instructions_per_second": 2748183.3907923307,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1308.962919125344,
+      "average_instructions_per_second": 4270065.277234593,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4011.143367323037,
+      "average_instructions_per_second": 2600481.3665447505,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3430.181813087368,
+      "average_instructions_per_second": 8811169.073693387,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2872.3828235326696,
+      "average_instructions_per_second": 5417323.969940239,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1867.5787741584418,
+      "average_instructions_per_second": 8936882.6454499,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4791.722040137425,
+      "average_instructions_per_second": 6708750.822245241,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-37",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3641.00992571612,
+      "average_instructions_per_second": 8984814.639567114,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1798.0687636737434,
+      "average_instructions_per_second": 3361221.5005122717,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1943.246814218141,
+      "average_instructions_per_second": 3922253.075317819,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2978.7325963526255,
+      "average_instructions_per_second": 9246855.982362006,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4695.829807731921,
+      "average_instructions_per_second": 7614719.787807117,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-38",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1518.5046416244677,
+      "average_instructions_per_second": 9144614.230327405,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2078.407937267658,
+      "average_instructions_per_second": 5725927.296763116,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2787.148818983843,
+      "average_instructions_per_second": 4128582.2998876804,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2942.4352513518015,
+      "average_instructions_per_second": 6734755.229373571,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4323.292631014499,
+      "average_instructions_per_second": 8582680.639337458,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2142.6700998484794,
+      "average_instructions_per_second": 3192916.3372159917,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1090.8014625773212,
+      "average_instructions_per_second": 8918386.349093746,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-39",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1511.777584950929,
+      "average_instructions_per_second": 2103209.9754279535,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3551.6433219474,
+      "average_instructions_per_second": 4364419.312133586,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1375.2501675862954,
+      "average_instructions_per_second": 9426889.556821039,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2838.2589906671137,
+      "average_instructions_per_second": 3528567.1279101684,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1704.3813889064459,
+      "average_instructions_per_second": 4442137.079366138,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1608.8028861339994,
+      "average_instructions_per_second": 8384937.444871861,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3496.365279611878,
+      "average_instructions_per_second": 6142418.432435258,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-40",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2629.051206835801,
+      "average_instructions_per_second": 5352666.065077719,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4161.925159386041,
+      "average_instructions_per_second": 3915769.696023508,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2542.380466045388,
+      "average_instructions_per_second": 9407476.084359365,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4000.5837619229205,
+      "average_instructions_per_second": 4878796.690522821,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3690.4730806483767,
+      "average_instructions_per_second": 2638142.8531855782,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-41",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4800.451719458004,
+      "average_instructions_per_second": 8780596.150712295,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1626.0048340512792,
+      "average_instructions_per_second": 8368250.37522834,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1447.7218814839716,
+      "average_instructions_per_second": 5611456.227009246,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1253.2522228049916,
+      "average_instructions_per_second": 3467411.9197184816,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4354.621327876725,
+      "average_instructions_per_second": 1632486.3923257845,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3200.7017380722323,
+      "average_instructions_per_second": 1042877.1109551807,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-42",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1485.2524757415608,
+      "average_instructions_per_second": 9747954.22940055,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1637.4690306664452,
+      "average_instructions_per_second": 9791810.409492072,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4057.6164948512583,
+      "average_instructions_per_second": 7634303.852734364,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3628.5262889566643,
+      "average_instructions_per_second": 7930620.924321662,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4248.210700645555,
+      "average_instructions_per_second": 4947797.843329139,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3632.8789136555843,
+      "average_instructions_per_second": 3987377.4561001547,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-43",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2101.8551822423296,
+      "average_instructions_per_second": 9839777.459108455,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4715.718402067345,
+      "average_instructions_per_second": 2239637.12230069,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4371.917903526784,
+      "average_instructions_per_second": 5609615.447786216,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2760.8638919186083,
+      "average_instructions_per_second": 3835992.450691189,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2863.0302941568475,
+      "average_instructions_per_second": 2986220.3452445944,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2885.2186640127966,
+      "average_instructions_per_second": 7498727.231899052,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2804.0070393321384,
+      "average_instructions_per_second": 6058897.846915341,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-44",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2862.379238633579,
+      "average_instructions_per_second": 3184575.1154925697,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2565.2822591529675,
+      "average_instructions_per_second": 7145068.715215104,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1232.7796573602363,
+      "average_instructions_per_second": 7878711.786114148,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4670.796688911096,
+      "average_instructions_per_second": 5035367.064472067,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4278.401793979716,
+      "average_instructions_per_second": 6354698.713207514,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4693.193929392115,
+      "average_instructions_per_second": 6159468.449376161,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-45",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1643.4321976234871,
+      "average_instructions_per_second": 3022367.3637921577,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1292.2876216853197,
+      "average_instructions_per_second": 2659873.2001615316,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3309.4989111676496,
+      "average_instructions_per_second": 1662447.7684320249,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4958.41889844025,
+      "average_instructions_per_second": 9464177.726444785,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3714.6942905156598,
+      "average_instructions_per_second": 9534817.714559998,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-46",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3290.281010473385,
+      "average_instructions_per_second": 2362634.1558599123,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3151.845389712288,
+      "average_instructions_per_second": 4748949.5941779055,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2604.4461254507014,
+      "average_instructions_per_second": 5416093.216654674,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1413.1447961041893,
+      "average_instructions_per_second": 7949827.32047173,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4554.879839253177,
+      "average_instructions_per_second": 4436256.464003295,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2058.4461814226543,
+      "average_instructions_per_second": 8769037.817836683,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4529.4250966849795,
+      "average_instructions_per_second": 5428038.213224176,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1554.4027536881567,
+      "average_instructions_per_second": 7143977.17456984,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-47",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4416.829922114054,
+      "average_instructions_per_second": 2578167.243290048,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4658.88384500055,
+      "average_instructions_per_second": 1577760.0722983044,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1429.8896446518054,
+      "average_instructions_per_second": 6010583.022180885,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1451.056016536223,
+      "average_instructions_per_second": 1745625.2692505387,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3052.7525081978774,
+      "average_instructions_per_second": 1501982.871246173,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4246.951740402802,
+      "average_instructions_per_second": 3276351.7817348824,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-48",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4096.914003545208,
+      "average_instructions_per_second": 5425610.502727181,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3802.2717253713945,
+      "average_instructions_per_second": 9219652.672562879,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3248.5521280915036,
+      "average_instructions_per_second": 2992766.8244354962,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1107.333169194329,
+      "average_instructions_per_second": 9483502.163609736,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1563.1789313235527,
+      "average_instructions_per_second": 2572451.0315395375,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4950.151669973013,
+      "average_instructions_per_second": 7318263.094531969,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-49",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4866.124299235607,
+      "average_instructions_per_second": 7402267.226847441,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3929.2521860563334,
+      "average_instructions_per_second": 3801602.1270100567,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1007.8953407273788,
+      "average_instructions_per_second": 6272123.385176563,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3032.125252925786,
+      "average_instructions_per_second": 7944498.268736355,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1802.1903454997635,
+      "average_instructions_per_second": 7382125.355143194,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4707.141688487778,
+      "average_instructions_per_second": 3293969.7492846707,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-50",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3649.2690783355933,
+      "average_instructions_per_second": 2633843.4248241587,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1071.805693172502,
+      "average_instructions_per_second": 9031365.783094913,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1278.6119427503158,
+      "average_instructions_per_second": 4526793.54745165,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1317.3617074988072,
+      "average_instructions_per_second": 4191824.5236053225,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1833.3093772933858,
+      "average_instructions_per_second": 6281956.605532504,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-51",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1957.989541618931,
+      "average_instructions_per_second": 5687334.161861226,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3862.9780423262764,
+      "average_instructions_per_second": 6414342.567475627,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1167.508815123855,
+      "average_instructions_per_second": 9736833.933330305,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2376.645066011717,
+      "average_instructions_per_second": 8071255.804361396,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3472.022753432933,
+      "average_instructions_per_second": 2010659.1188171946,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3104.1916069242893,
+      "average_instructions_per_second": 9132509.790026335,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4477.72990132803,
+      "average_instructions_per_second": 5749477.600448136,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 2250.6981764862667,
+      "average_instructions_per_second": 8201798.982821818,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-52",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3602.447105740517,
+      "average_instructions_per_second": 8168006.074754341,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1966.917291112983,
+      "average_instructions_per_second": 4780759.726097088,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1028.6034211887313,
+      "average_instructions_per_second": 6194584.779233025,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3777.6415752646967,
+      "average_instructions_per_second": 9892960.418076226,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3615.4360099036717,
+      "average_instructions_per_second": 5221849.670296657,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-53",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4429.411722796374,
+      "average_instructions_per_second": 8578332.630302114,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4692.124434895525,
+      "average_instructions_per_second": 1311332.9292541016,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2958.136258971401,
+      "average_instructions_per_second": 2879444.28562534,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2926.708241529602,
+      "average_instructions_per_second": 9934855.260085624,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3511.6057624472155,
+      "average_instructions_per_second": 6660739.9626445975,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2163.0071905483414,
+      "average_instructions_per_second": 6809601.928583672,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4850.847738312741,
+      "average_instructions_per_second": 1842958.3104483811,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1551.7938682118956,
+      "average_instructions_per_second": 7524059.083240039,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-54",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3482.0000024823294,
+      "average_instructions_per_second": 6234317.726599938,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1707.0026885575726,
+      "average_instructions_per_second": 6788696.925849668,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3549.917795307979,
+      "average_instructions_per_second": 2313558.4298916077,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3934.1860204984337,
+      "average_instructions_per_second": 9739169.463090051,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2137.2888963070154,
+      "average_instructions_per_second": 5261063.618789278,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1244.5580146776108,
+      "average_instructions_per_second": 1797590.0859170859,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4290.466658735515,
+      "average_instructions_per_second": 4460404.545180536,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 2323.3060657528094,
+      "average_instructions_per_second": 2231794.392570412,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-55",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3715.572508749556,
+      "average_instructions_per_second": 2189590.243978576,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1020.8330181434801,
+      "average_instructions_per_second": 8319450.412067593,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3089.3864695851344,
+      "average_instructions_per_second": 7822687.122991982,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1136.7221128739327,
+      "average_instructions_per_second": 5187183.434471136,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1575.7040168131966,
+      "average_instructions_per_second": 2985135.578593283,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1786.785487627316,
+      "average_instructions_per_second": 1794207.289840831,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-56",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2502.5019012286866,
+      "average_instructions_per_second": 2018676.54145682,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3917.072660268966,
+      "average_instructions_per_second": 1918815.6872056983,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3843.363296448196,
+      "average_instructions_per_second": 6404483.536227485,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1235.695867139461,
+      "average_instructions_per_second": 6318804.216280503,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1690.4017437428074,
+      "average_instructions_per_second": 7026399.275469454,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1810.1685020643101,
+      "average_instructions_per_second": 6074095.685219374,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-57",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1947.1767731104105,
+      "average_instructions_per_second": 5199219.017070023,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3235.160232414181,
+      "average_instructions_per_second": 3506670.423121971,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1468.4777105046428,
+      "average_instructions_per_second": 9580981.795805097,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2938.8509544631643,
+      "average_instructions_per_second": 7237418.299306203,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3390.0676034532485,
+      "average_instructions_per_second": 1753445.3188324254,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1439.4054331089947,
+      "average_instructions_per_second": 9838551.892964628,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4509.5405033168845,
+      "average_instructions_per_second": 1982467.9543111832,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-58",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2585.621923159138,
+      "average_instructions_per_second": 4706976.856141774,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3025.568920937496,
+      "average_instructions_per_second": 4970116.580138543,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3720.6417782689864,
+      "average_instructions_per_second": 3945841.942999208,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3948.0179845535085,
+      "average_instructions_per_second": 5089162.197052944,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2068.705798568929,
+      "average_instructions_per_second": 6598044.059582912,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3449.6244479955876,
+      "average_instructions_per_second": 5468167.566920973,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2621.60148505482,
+      "average_instructions_per_second": 6586921.445347638,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-59",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3277.8090486250876,
+      "average_instructions_per_second": 7840038.25688495,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2588.6963050063805,
+      "average_instructions_per_second": 5522537.98767417,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3509.3523256953836,
+      "average_instructions_per_second": 2516235.799542957,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3199.0057625691743,
+      "average_instructions_per_second": 1109283.334986776,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2686.1398560772905,
+      "average_instructions_per_second": 7471344.656493107,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2204.6870127497814,
+      "average_instructions_per_second": 2887802.3252253965,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2851.098038040161,
+      "average_instructions_per_second": 7018590.172145647,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1545.6000936872924,
+      "average_instructions_per_second": 4136139.2589566703,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-60",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1920.8341056187842,
+      "average_instructions_per_second": 1895061.7657237365,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1873.1137889106164,
+      "average_instructions_per_second": 9115824.6176558,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3000.573110215066,
+      "average_instructions_per_second": 3115688.7434895905,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2961.835135701691,
+      "average_instructions_per_second": 4880282.113548687,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4448.038951847975,
+      "average_instructions_per_second": 5887591.815147492,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2741.036255844042,
+      "average_instructions_per_second": 8467575.663495561,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3561.5849983512167,
+      "average_instructions_per_second": 1403807.8999712376,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 4044.889170567715,
+      "average_instructions_per_second": 4861683.981243063,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-61",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2075.593398617956,
+      "average_instructions_per_second": 7659470.784815273,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4511.606887699714,
+      "average_instructions_per_second": 7872938.605832521,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1312.1054806853722,
+      "average_instructions_per_second": 6619000.05041551,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1857.168330182884,
+      "average_instructions_per_second": 4246388.837219343,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4009.7953880988216,
+      "average_instructions_per_second": 5904825.815409925,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3807.350162266684,
+      "average_instructions_per_second": 8004913.223900114,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3911.6253138829416,
+      "average_instructions_per_second": 8207757.255617466,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 4560.330582037894,
+      "average_instructions_per_second": 6173957.674631231,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-62",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4715.572720309234,
+      "average_instructions_per_second": 1101931.5990764415,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4619.740936220924,
+      "average_instructions_per_second": 6898929.429128618,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1767.343998183865,
+      "average_instructions_per_second": 1598371.7692922698,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4222.961092752625,
+      "average_instructions_per_second": 1793830.4668895258,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2849.8413965002346,
+      "average_instructions_per_second": 1588532.4020149226,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1455.1676258808195,
+      "average_instructions_per_second": 5972974.468052786,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4338.1240008515615,
+      "average_instructions_per_second": 8422831.69997768,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 2635.8310455572782,
+      "average_instructions_per_second": 1958054.4789337153,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-63",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3206.531924171844,
+      "average_instructions_per_second": 9559214.43159605,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1931.7543349960715,
+      "average_instructions_per_second": 2074424.0390530755,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2937.6088971206973,
+      "average_instructions_per_second": 8468870.479289383,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4760.7709912173195,
+      "average_instructions_per_second": 5883583.441992719,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1430.5346292016134,
+      "average_instructions_per_second": 1122591.3799942636,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4686.101783851071,
+      "average_instructions_per_second": 9159143.527079264,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2818.802883190524,
+      "average_instructions_per_second": 6346716.985876866,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-64",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3207.8040415736436,
+      "average_instructions_per_second": 9439144.579917911,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2712.2782301663196,
+      "average_instructions_per_second": 1073369.574368277,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2862.8410227935756,
+      "average_instructions_per_second": 2598742.489190818,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4203.158298192317,
+      "average_instructions_per_second": 7433061.025347889,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2839.284531450858,
+      "average_instructions_per_second": 1702480.6275306144,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-65",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3278.1448055513692,
+      "average_instructions_per_second": 3023593.607020142,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4353.664257229188,
+      "average_instructions_per_second": 6414067.311060682,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3404.7720345861194,
+      "average_instructions_per_second": 4818430.422641813,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3586.544413106065,
+      "average_instructions_per_second": 1283020.8338711658,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4134.981090732375,
+      "average_instructions_per_second": 1510308.962388454,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1530.6510238551825,
+      "average_instructions_per_second": 9833802.23427579,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2580.5776112870603,
+      "average_instructions_per_second": 8051913.098068998,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 2364.117245372262,
+      "average_instructions_per_second": 2747987.871312843,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-66",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2333.3906510782317,
+      "average_instructions_per_second": 3757959.85040981,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4417.907039868637,
+      "average_instructions_per_second": 1501807.2541689535,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4827.787674980103,
+      "average_instructions_per_second": 7643026.193927672,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4951.569257832488,
+      "average_instructions_per_second": 9283360.316743484,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4552.5333039999605,
+      "average_instructions_per_second": 4550223.236450689,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-67",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1742.4500475338182,
+      "average_instructions_per_second": 9759355.112114165,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4226.899026141726,
+      "average_instructions_per_second": 9839054.370502975,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4619.055852786909,
+      "average_instructions_per_second": 9258068.281157836,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1756.0104165157368,
+      "average_instructions_per_second": 2368925.482879876,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4197.772431852947,
+      "average_instructions_per_second": 9705333.57193457,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-68",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4424.542935114147,
+      "average_instructions_per_second": 3888615.957431305,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2209.478296722157,
+      "average_instructions_per_second": 3966594.3677978795,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4732.545905971478,
+      "average_instructions_per_second": 1020510.2603181555,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2461.103496104253,
+      "average_instructions_per_second": 6449236.136948567,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1195.9499869619176,
+      "average_instructions_per_second": 6558103.830261192,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4667.43931122709,
+      "average_instructions_per_second": 8772051.792842165,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4971.221213399413,
+      "average_instructions_per_second": 5009546.77100492,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-69",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3677.8076330155945,
+      "average_instructions_per_second": 5990270.835968958,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1852.997715160738,
+      "average_instructions_per_second": 6538933.775632218,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1193.2514346526077,
+      "average_instructions_per_second": 3551974.5252088513,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1946.9176743724543,
+      "average_instructions_per_second": 8390732.172976546,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4042.573739743748,
+      "average_instructions_per_second": 9676723.744270897,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4087.952148671656,
+      "average_instructions_per_second": 2827088.6558167115,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-70",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4772.12671943703,
+      "average_instructions_per_second": 3653110.971427009,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4660.699329405681,
+      "average_instructions_per_second": 5182319.116477595,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1604.1749742722568,
+      "average_instructions_per_second": 8196070.5019414425,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4536.489538632923,
+      "average_instructions_per_second": 9299782.311921868,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2127.503066210617,
+      "average_instructions_per_second": 6673394.924181785,
+      "layer": "edge"
+    }
+  ]
+},
+{
+  "_id": "config-71",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3231.707045972763,
+      "average_instructions_per_second": 4472420.3603361435,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4832.742900134428,
+      "average_instructions_per_second": 1202750.3536723908,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3351.127042270708,
+      "average_instructions_per_second": 4786277.77913665,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1425.4318461744174,
+      "average_instructions_per_second": 8621553.461335316,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4859.454551395946,
+      "average_instructions_per_second": 9027263.311781593,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-72",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1426.4151883413203,
+      "average_instructions_per_second": 2032627.7264540368,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2167.2666922642975,
+      "average_instructions_per_second": 2242907.5904782237,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2551.0186509992755,
+      "average_instructions_per_second": 7219368.031298922,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2164.441993989435,
+      "average_instructions_per_second": 5042886.327232104,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3609.0985247194876,
+      "average_instructions_per_second": 7335696.502943939,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4357.938929417298,
+      "average_instructions_per_second": 9200103.081212485,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1692.9001869213196,
+      "average_instructions_per_second": 5676919.548487033,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 4514.531045832715,
+      "average_instructions_per_second": 2624000.172994134,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-73",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3115.672687569677,
+      "average_instructions_per_second": 1809334.5046371794,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2675.115081022649,
+      "average_instructions_per_second": 1143034.1353919406,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1192.9797717307388,
+      "average_instructions_per_second": 9519455.644641062,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3931.7315715213526,
+      "average_instructions_per_second": 3899254.1129810535,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1078.48303699609,
+      "average_instructions_per_second": 9107274.297338746,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3041.530507940757,
+      "average_instructions_per_second": 8547303.18459622,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2339.628989071459,
+      "average_instructions_per_second": 8648039.317489665,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1847.0186134173964,
+      "average_instructions_per_second": 9880571.83526047,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-74",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3073.7245252123435,
+      "average_instructions_per_second": 9100860.176127758,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2239.480614331716,
+      "average_instructions_per_second": 3413588.333493047,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1450.8395219352162,
+      "average_instructions_per_second": 8483017.094794663,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1106.3566770950185,
+      "average_instructions_per_second": 2184687.3633943056,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3837.8455255750023,
+      "average_instructions_per_second": 5153510.2608139925,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-75",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2751.894080320565,
+      "average_instructions_per_second": 8443231.631965553,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3395.4702348291653,
+      "average_instructions_per_second": 4287694.983007002,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4247.776499633069,
+      "average_instructions_per_second": 8910490.715195496,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1944.122927522253,
+      "average_instructions_per_second": 5285137.59336115,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1447.1757939173933,
+      "average_instructions_per_second": 4795324.785497585,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2343.6915668063357,
+      "average_instructions_per_second": 3942960.3299505804,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3134.025844674988,
+      "average_instructions_per_second": 3114069.6664560162,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-76",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1588.8098231716335,
+      "average_instructions_per_second": 8498023.8978921,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1655.3967220109644,
+      "average_instructions_per_second": 9119849.758841932,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2438.8569854682974,
+      "average_instructions_per_second": 1602545.893375726,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3431.1917861804986,
+      "average_instructions_per_second": 9754204.882748423,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4867.528299663802,
+      "average_instructions_per_second": 5041167.2656445345,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2302.719333518282,
+      "average_instructions_per_second": 8816848.247972783,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4643.950762715804,
+      "average_instructions_per_second": 3735378.13978174,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-77",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4252.070871874934,
+      "average_instructions_per_second": 6048168.466816915,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1449.0389874643483,
+      "average_instructions_per_second": 3585258.562091156,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3104.524480119291,
+      "average_instructions_per_second": 6587394.978660527,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1900.9992991530235,
+      "average_instructions_per_second": 3821128.4334090636,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3683.6539700801673,
+      "average_instructions_per_second": 8198511.081581617,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2415.6850752655455,
+      "average_instructions_per_second": 3165896.5529858153,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3104.4496651024806,
+      "average_instructions_per_second": 6374670.590813834,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-78",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4067.5434647536163,
+      "average_instructions_per_second": 3403871.6013664864,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1189.032041740865,
+      "average_instructions_per_second": 7737691.741488553,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1749.7932001369213,
+      "average_instructions_per_second": 7819920.209091952,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4731.708844769702,
+      "average_instructions_per_second": 4854263.281216429,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4242.518919273318,
+      "average_instructions_per_second": 3218369.385348325,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4425.6276957418995,
+      "average_instructions_per_second": 6977577.626781527,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3882.7834018854037,
+      "average_instructions_per_second": 7056749.753286669,
+      "layer": "edge"
+    }
+  ]
+},
+{
+  "_id": "config-79",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3218.1997810330904,
+      "average_instructions_per_second": 2615684.013715639,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1213.4128938098888,
+      "average_instructions_per_second": 3006224.6608435237,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1709.6114733308082,
+      "average_instructions_per_second": 4098368.0335039673,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3486.4366059011695,
+      "average_instructions_per_second": 4241455.218461664,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2739.5022267276,
+      "average_instructions_per_second": 1451506.510847896,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2429.8459210848514,
+      "average_instructions_per_second": 5464861.574513191,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2629.0474150075197,
+      "average_instructions_per_second": 3769602.2085918323,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-80",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4993.656034098013,
+      "average_instructions_per_second": 8877478.771935783,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1870.5369039808143,
+      "average_instructions_per_second": 8719606.038958255,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4043.9227565349565,
+      "average_instructions_per_second": 2159618.1551268576,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1979.0341085385576,
+      "average_instructions_per_second": 5766150.608496114,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2389.4827053079653,
+      "average_instructions_per_second": 8983013.529188778,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4505.705970129097,
+      "average_instructions_per_second": 2215162.9155799393,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1697.7796680196868,
+      "average_instructions_per_second": 3775459.8438773425,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 4371.954929140653,
+      "average_instructions_per_second": 7448146.368636051,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-81",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4636.515213389233,
+      "average_instructions_per_second": 7767219.931612647,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1975.4294129046334,
+      "average_instructions_per_second": 4087547.131524744,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2556.990737847088,
+      "average_instructions_per_second": 8243455.460394931,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2047.0171273991791,
+      "average_instructions_per_second": 4697612.353141228,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3528.453553467062,
+      "average_instructions_per_second": 5923413.01113149,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4870.711839405933,
+      "average_instructions_per_second": 1040910.3839548142,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1598.48174468366,
+      "average_instructions_per_second": 7911702.534350524,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-82",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3352.4578305962914,
+      "average_instructions_per_second": 3477926.2709528184,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1020.3990042530213,
+      "average_instructions_per_second": 1330499.3785048276,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1427.6834407315473,
+      "average_instructions_per_second": 4389946.78621762,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4913.495130091485,
+      "average_instructions_per_second": 7180994.27900715,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3956.5306872681563,
+      "average_instructions_per_second": 5281947.5063402755,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-83",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2144.6455142557866,
+      "average_instructions_per_second": 4373925.035730283,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4496.419361938018,
+      "average_instructions_per_second": 5077791.4688922865,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4228.386050024385,
+      "average_instructions_per_second": 5817899.533990076,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2041.7453643278386,
+      "average_instructions_per_second": 8464601.620348632,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3691.8197100568573,
+      "average_instructions_per_second": 3187111.990015202,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 4167.608706402341,
+      "average_instructions_per_second": 8156102.899524667,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 1635.5599482304526,
+      "average_instructions_per_second": 3154127.01699914,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1128.0382793732877,
+      "average_instructions_per_second": 3815915.8471985077,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-84",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1099.7928732533264,
+      "average_instructions_per_second": 3817228.1947267232,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4224.193558710221,
+      "average_instructions_per_second": 8642740.242086552,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2810.7344532065613,
+      "average_instructions_per_second": 6067071.921694809,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4210.918198840171,
+      "average_instructions_per_second": 6244526.350846065,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2943.344163472104,
+      "average_instructions_per_second": 8386525.835156373,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1398.8139285353443,
+      "average_instructions_per_second": 8375788.670876812,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-85",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1110.3416263266363,
+      "average_instructions_per_second": 9994212.091205802,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3216.276678583753,
+      "average_instructions_per_second": 5621379.598613706,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2779.733144181281,
+      "average_instructions_per_second": 3426767.1667774883,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1399.9880743311855,
+      "average_instructions_per_second": 5060465.406370783,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1847.7279595197383,
+      "average_instructions_per_second": 8223484.88217995,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2729.2874713906485,
+      "average_instructions_per_second": 9960947.19699758,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3685.226419850575,
+      "average_instructions_per_second": 7283494.693228363,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1318.6343427300603,
+      "average_instructions_per_second": 2983267.5038699172,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-86",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3914.040385122147,
+      "average_instructions_per_second": 1311717.1936872825,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4345.979645664679,
+      "average_instructions_per_second": 6248840.730518517,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3403.845018825913,
+      "average_instructions_per_second": 7781485.943210919,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4077.4579212951803,
+      "average_instructions_per_second": 2963531.009284231,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2237.0963594218256,
+      "average_instructions_per_second": 1608433.055085254,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2952.9171109371273,
+      "average_instructions_per_second": 2178852.6710355775,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-87",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4454.2668810718515,
+      "average_instructions_per_second": 3098923.6224336396,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3004.544545951181,
+      "average_instructions_per_second": 7998501.083638599,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1867.3883741510822,
+      "average_instructions_per_second": 5716660.588685623,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4801.218494115346,
+      "average_instructions_per_second": 5140727.739707526,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2520.167781999764,
+      "average_instructions_per_second": 9178012.348538935,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2123.3198688178554,
+      "average_instructions_per_second": 2945142.81755917,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2886.3934521448,
+      "average_instructions_per_second": 9691498.211584289,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1686.2718754210123,
+      "average_instructions_per_second": 6782076.44149229,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-88",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4954.284753302903,
+      "average_instructions_per_second": 9486417.216111597,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1123.4864101591281,
+      "average_instructions_per_second": 7057284.834392207,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1416.8452819648319,
+      "average_instructions_per_second": 1063843.0867023843,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 2983.6400504452085,
+      "average_instructions_per_second": 1650714.0240398268,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2719.249282885963,
+      "average_instructions_per_second": 2145294.4037338216,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3727.481030800643,
+      "average_instructions_per_second": 4295835.758101551,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2365.871160604418,
+      "average_instructions_per_second": 8839268.194745101,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-89",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2854.028463193401,
+      "average_instructions_per_second": 9403530.809179017,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4215.414462356,
+      "average_instructions_per_second": 1943066.456876163,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3022.853672997142,
+      "average_instructions_per_second": 3841260.151292288,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1704.331709753662,
+      "average_instructions_per_second": 8437039.372894783,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1462.4533127397808,
+      "average_instructions_per_second": 8622072.786562636,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1451.9972370630176,
+      "average_instructions_per_second": 9565430.330406126,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-90",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1461.9071102994137,
+      "average_instructions_per_second": 2731517.695064464,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1468.7112314865035,
+      "average_instructions_per_second": 8286432.257096486,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3874.4841288404536,
+      "average_instructions_per_second": 8313884.692096197,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3473.196869993915,
+      "average_instructions_per_second": 6423145.127316466,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4671.658166983465,
+      "average_instructions_per_second": 9170454.28091932,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2490.73048802747,
+      "average_instructions_per_second": 8502106.181791533,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3087.1334279673847,
+      "average_instructions_per_second": 5523225.933923209,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 4401.386467597215,
+      "average_instructions_per_second": 6828073.449703612,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-91",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3727.1558376424737,
+      "average_instructions_per_second": 5139029.114747147,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1265.054020135541,
+      "average_instructions_per_second": 6440432.134285168,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4475.191873126676,
+      "average_instructions_per_second": 1008867.0034234473,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4203.9351199237535,
+      "average_instructions_per_second": 9900262.074284138,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1778.539188989117,
+      "average_instructions_per_second": 5222399.604665124,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1844.2123968610415,
+      "average_instructions_per_second": 5386066.390523987,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2109.031403894456,
+      "average_instructions_per_second": 5709951.672217975,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-92",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4501.877882749413,
+      "average_instructions_per_second": 5963315.759412537,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 3619.5588473604685,
+      "average_instructions_per_second": 9080360.071716666,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4008.6590741758077,
+      "average_instructions_per_second": 8668092.416024923,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3892.4333236586913,
+      "average_instructions_per_second": 1167053.5760152442,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2554.8358146564588,
+      "average_instructions_per_second": 6515015.187422349,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3672.625180281687,
+      "average_instructions_per_second": 5584333.649958469,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2131.3478569808276,
+      "average_instructions_per_second": 8927814.30976365,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 3664.7147980835384,
+      "average_instructions_per_second": 7531317.528601012,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-93",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3309.5303472507103,
+      "average_instructions_per_second": 9510212.678702341,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4032.9381493658616,
+      "average_instructions_per_second": 6041734.708377364,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2265.0104582168706,
+      "average_instructions_per_second": 2068055.4777251112,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4459.935328139383,
+      "average_instructions_per_second": 8620064.238389276,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3138.108207780576,
+      "average_instructions_per_second": 2194267.6949796444,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2168.9624643239977,
+      "average_instructions_per_second": 9852817.632270176,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3053.69655562316,
+      "average_instructions_per_second": 5388490.547573855,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 4645.841387853106,
+      "average_instructions_per_second": 1484781.5261361809,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-94",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4841.405948879787,
+      "average_instructions_per_second": 8339517.388693078,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2731.4572421156367,
+      "average_instructions_per_second": 2239845.7571727503,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3192.89847528193,
+      "average_instructions_per_second": 4583293.389210509,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4731.035378575809,
+      "average_instructions_per_second": 3951736.8998828637,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 1060.0045186711027,
+      "average_instructions_per_second": 2105964.5808236124,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2580.5607484653165,
+      "average_instructions_per_second": 3436152.7355983835,
+      "layer": "edge"
+    }
+  ]
+},
+{
+  "_id": "config-95",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1651.4927076395134,
+      "average_instructions_per_second": 5489678.864704298,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1065.837751317797,
+      "average_instructions_per_second": 9755728.584803456,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1217.0038284165994,
+      "average_instructions_per_second": 5036779.614847036,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4593.162392622386,
+      "average_instructions_per_second": 8385780.1524558775,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4642.351474456869,
+      "average_instructions_per_second": 5609251.72079004,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3665.6839298860414,
+      "average_instructions_per_second": 7550678.228872022,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3345.0845148430417,
+      "average_instructions_per_second": 2627908.710034035,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 1532.040546472144,
+      "average_instructions_per_second": 2202032.6416250467,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-96",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3117.781725351381,
+      "average_instructions_per_second": 6587313.416905261,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2916.162014868571,
+      "average_instructions_per_second": 4600713.590863932,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 2808.1022766513024,
+      "average_instructions_per_second": 1348424.282587494,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4488.516087559108,
+      "average_instructions_per_second": 1305931.279192043,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4159.354059196081,
+      "average_instructions_per_second": 6079215.532487974,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2507.77377638926,
+      "average_instructions_per_second": 2432005.0375955617,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-97",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 2348.626169672886,
+      "average_instructions_per_second": 2047590.2706100428,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 2322.972368825196,
+      "average_instructions_per_second": 2151711.9681269815,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4092.064277628387,
+      "average_instructions_per_second": 8552212.660187874,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3879.489124960354,
+      "average_instructions_per_second": 1287440.0528990158,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2959.8748663205733,
+      "average_instructions_per_second": 7819836.986106443,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 1928.8500636040408,
+      "average_instructions_per_second": 5817204.062411722,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 4626.067904537626,
+      "average_instructions_per_second": 2919702.125155331,
+      "layer": null
+    },
+    {
+      "_id": "service-8",
+      "acceptable_latency": 3957.763782912898,
+      "average_instructions_per_second": 3795351.3521591993,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-98",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 4624.87721649075,
+      "average_instructions_per_second": 3572141.187011865,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 1361.5336241291973,
+      "average_instructions_per_second": 6322465.261240973,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 3269.6951717420243,
+      "average_instructions_per_second": 3960182.2184642553,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 1938.6567411703222,
+      "average_instructions_per_second": 8600522.593350992,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 4498.005845558959,
+      "average_instructions_per_second": 6413692.068994136,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-99",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 3182.9205157998504,
+      "average_instructions_per_second": 5982908.058745047,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4589.10641684606,
+      "average_instructions_per_second": 4516263.515000551,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 4024.6768176401797,
+      "average_instructions_per_second": 5710879.786441493,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 3823.4227427797937,
+      "average_instructions_per_second": 2926321.075022065,
+      "layer": "edge"
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 3659.6957319421585,
+      "average_instructions_per_second": 3007813.411997331,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 3478.90472117459,
+      "average_instructions_per_second": 9288289.836819362,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 2137.7153740550475,
+      "average_instructions_per_second": 4672433.040089201,
+      "layer": null
+    }
+  ]
+},
+{
+  "_id": "config-100",
+  "services": [
+    {
+      "_id": "service-1",
+      "acceptable_latency": 1919.5573874409488,
+      "average_instructions_per_second": 6574283.896732473,
+      "layer": null
+    },
+    {
+      "_id": "service-2",
+      "acceptable_latency": 4396.057277686594,
+      "average_instructions_per_second": 3805147.469765215,
+      "layer": null
+    },
+    {
+      "_id": "service-3",
+      "acceptable_latency": 1428.5978817465073,
+      "average_instructions_per_second": 3864313.2758614765,
+      "layer": null
+    },
+    {
+      "_id": "service-4",
+      "acceptable_latency": 4616.197489384101,
+      "average_instructions_per_second": 5724890.629280373,
+      "layer": null
+    },
+    {
+      "_id": "service-5",
+      "acceptable_latency": 2560.866652134574,
+      "average_instructions_per_second": 6031762.98620132,
+      "layer": null
+    },
+    {
+      "_id": "service-6",
+      "acceptable_latency": 2195.9174343042796,
+      "average_instructions_per_second": 8539853.12299388,
+      "layer": null
+    },
+    {
+      "_id": "service-7",
+      "acceptable_latency": 3800.862406242392,
+      "average_instructions_per_second": 6263338.10765005,
+      "layer": null
+    }
+  ]
+}]
